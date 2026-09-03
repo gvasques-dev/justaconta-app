@@ -1,0 +1,24 @@
+# Python / Django
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+media/
+staticfiles/
+
+# Variáveis de ambiente e Segredos 
+.env
+.venv/
+venv/
+ENV/
+env/
+
+# IDEs e Editores
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Arquivos do Sistema Operacional
+.DS_Store
+Thumbs.db
